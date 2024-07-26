@@ -56,7 +56,7 @@ function App() {
       <div className="heading" style={{ width: "20%" }}>
         <h1>Translation App</h1>
         <p style={{ width: "70%" }}>
-          A React Translation App allows you to translate from onee language to
+          A React Translation App allows you to translate from one language to
           another with ease.{" "}
         </p>
       </div>
